@@ -251,6 +251,7 @@ namespace Rysowanie_grafu
             }
 
             //-------------------------------------------
+            //Rysowanie
             g.FillRectangle(aBrush, a.X, a.Y, 5, 5);
             g.FillRectangle(aBrush, b.X, b.Y, 5, 5);
             g.FillRectangle(aBrush, c.X, c.Y, 5, 5);
